@@ -22,4 +22,4 @@ O projeto da Agência Bancária é uma aplicação Java que simula o funcionamen
 - As contas bancárias são armazenadas em uma lista (`contasBancarias`) na classe `AgenciaBancaria`.
 - Os resultados das operações e informações sobre as contas são exibidos no console.
 
-Este projeto simula uma aplicação bancária básica e pode ser estendido com recursos adicionais, como autenticação de usuário, persistência de dados em um banco de dados e outras operações bancárias mais avançadas. É um exemplo de programação orientada a objetos em Java.
+
